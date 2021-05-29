@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: prasang.tix@gmail.com
-phone: +91-7011074747
+phone: +91 7011074747
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -37,11 +37,11 @@ phone: +91-7011074747
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: linkedin
-    icon_pack: fab
-    name: DM Me
-    link: 'https://www.linkedin.com/in/prasang-gupta/'
+# contact_links:
+#   - icon: linkedin
+#     icon_pack: fab
+#     name: DM Me
+#     link: 'https://www.linkedin.com/in/prasang-gupta/'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
