@@ -37,15 +37,15 @@ phone: +91 7011074747
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-# contact_links:
-#   - icon: linkedin
-#     icon_pack: fab
-#     name: DM Me
-#     link: 'https://www.linkedin.com/in/prasang-gupta/'
-  # - icon: skype
-  #   icon_pack: fab
-  #   name: Skype Me
-  #   link: 'skype:echo123?call'
+contact_links:
+  - icon: discord
+    icon_pack: fab
+    name: Add me on discord
+    link: 'discord:prasanggupta#6826'
+  - icon: telegram
+    icon_pack: fab
+    name: Drop me a telegram
+    link: 'https://t.me/prasanggupta'
   # - icon: keybase
   #   icon_pack: fab
   #   name: Chat on Keybase
@@ -59,7 +59,7 @@ phone: +91 7011074747
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true

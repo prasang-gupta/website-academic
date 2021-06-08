@@ -18,9 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
+- Vision
+- Robotics
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Hyperconnected networks
+- Computational Science
 
 # Education to show in About widget
 education:
@@ -56,19 +58,21 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently working in the Emerging Technologies team in PwC US Advisory. The team focuses primarily on providing innovative, cutting edge solutions to client problems leveraging AI, ML and IoT. In addition to client projects, we also build PoCs (Proof of Concepts) for different technologies which we think will bring value to clients and present them as potential replacements for outdated ways of working.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before this, I did my Masters and Bachelors in Chemical Engineering from IIT Kanpur. I was interested in Simulation studies and did multiple projects in this domain including molecular dynamics simulations, simulating flows of particles and simulating burner profiles. All of this was built leveraging multiple open source packages and products along with self written optimised code.
+
+Apart from this, I like board games, online strategy games and geeky tech stuff. I also like teaching and have been pursuing several opportunities to teach underprivileged students. I love keeping up with the latest trends in technology both in the hardware and the software domain.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
