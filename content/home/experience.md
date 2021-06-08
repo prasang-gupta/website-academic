@@ -25,7 +25,7 @@ experience:
   - title: Experienced Asssociate
     company: PwC US Advisory
     company_url: ''
-    company_logo: pwc
+    company_logo: PwC
     location: Mumbai, India
     date_start: '2019-07-15'
     date_end: ''
