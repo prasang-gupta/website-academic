@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Prasang Gupta # Website name
-baseurl: '' # Website URL
+baseurl: 'https://prasang-gupta.github.io/' # Website URL
 copyright: '&copy; 2021 Prasang Gupta' # Footer text, e.g. '© {year} Me'
 
 ############################
