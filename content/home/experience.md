@@ -39,31 +39,31 @@ experience:
       I have worked on several different projects in my time here. The details for most of these can be found in the projects section. Some of them are :
 
       CLIENT PROJECTS
-      - Damaged car parts segmentation for insurance claims - *instance segmentation with explainability and automated report generation*
-      - Asset tracking - *tracked cargo using cost-effective sensors along its journey from factory to distribution center ascertaining possible locations of damage*
-      - Factory Intelligence - *smart factory solution with unplanned machien downtime detection with other analytics using cost-effective sensors and dashboard with key KPIs*
-      - Occupancy Detection - *anonymised occupancy detection inside office space with LIDARs with features including social bubble breach detection*
+      - Damaged car parts segmentation for insurance claims - <span style="color:grey;font-style:italic">instance segmentation with explainability and automated report generation</span>
+      - Asset tracking - <span style="color:grey;font-style:italic">tracked cargo using cost-effective sensors along its journey from factory to distribution center ascertaining possible locations of damage</span>
+      - Factory Intelligence - <span style="color:grey;font-style:italic">smart factory solution with unplanned machien downtime detection with other analytics using cost-effective sensors and dashboard with key KPIs</span>
+      - Occupancy Detection - <span style="color:grey;font-style:italic">anonymised occupancy detection inside office space with LIDARs with features including social bubble breach detection</span>
 
       <br>
 
       RESEARCH PROJECTS
-      - Active learning - *explored this using CIFAR10 dataset and managed to achieve high accuracies with very limited training data*
-      - Edge implementation of live models - *implementation of multiple live models (eg. action recognition on something something dataset with over 200 classes) on edge devices (eg. Jetson TX2, Raspberry Pi)*
-      - Finger Vein Detection - *Designed end-to-end biometric system with user registration and verification as a replacement for fingerprint technology*
-      - Demand Prediction with competition analysis - *predicted demand using several demographic and footfall variables*
+      - Active learning - <span style="color:grey;font-style:italic">explored this using CIFAR10 dataset and managed to achieve high accuracies with very limited training data</span>
+      - Edge implementation of live models - <span style="color:grey;font-style:italic">implementation of multiple live models (eg. action recognition on something something dataset with over 200 classes) on edge devices (eg. Jetson TX2, Raspberry Pi)</span>
+      - Finger Vein Detection - <span style="color:grey;font-style:italic">Designed end-to-end biometric system with user registration and verification as a replacement for fingerprint technology</span>
+      - Demand Prediction with competition analysis - <span style="color:grey;font-style:italic">predicted demand using several demographic and footfall variables</span>
 
       <br>
 
       HACKATHONS
-      - CLEF 2020 - ImageCLEF DrawnUI 2020 - 3rd Rank - *extracted html ui elements from wireframe drawings of websites; came up with novel multi-pass inference technique to boost recall*
-      - NEURIPS 2020 - L2RPN Robustness Track - 28th rank - *RL-based challenge to robustly maintain an electrical grid without disruptions against an adverse agent*
-      - CLEF 2021 - ImageCLEF DrawnUI 2021 - 2nd Rank - *extracted html ui elements from wireframe drawings of websites*
+      - CLEF 2020 - ImageCLEF DrawnUI 2020 - <span style="color:lightgreen">3rd Rank</span> - <span style="color:grey;font-style:italic">extracted html ui elements from wireframe drawings of websites; came up with novel multi-pass inference technique to boost recall</span>
+      - NEURIPS 2020 - L2RPN Robustness Track - <span style="color:lightgreen">28th rank</span> - <span style="color:grey;font-style:italic">RL-based challenge to robustly maintain an electrical grid without disruptions against an adverse agent</span>
+      - CLEF 2021 - ImageCLEF DrawnUI 2021 - <span style="color:lightgreen">2nd Rank</span> - <span style="color:grey;font-style:italic">extracted html ui elements from wireframe drawings of websites</span>
 
       <br>
 
       FIRM DEVELOPMENT
-      - Training Tracker Repository - *ideated and built out a repository management system for all internal trainings to boost self-learning and incorporate feedback into future trainings*
-      - Led Campus Recruitment - *led recruitment process for my alma mater, IIT Kanpur*
+      - Training Tracker Repository - <span style="color:grey;font-style:italic">ideated and built out a repository management system for all internal trainings to boost self-learning and incorporate feedback into future trainings</span>
+      - Led Campus Recruitment - <span style="color:grey;font-style:italic">led recruitment process for my alma mater, IIT Kanpur</span>
         
   - title: Intern
     company: TATA Research Design Development Centre
