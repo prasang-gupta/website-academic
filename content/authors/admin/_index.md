@@ -6,7 +6,7 @@ title: Prasang Gupta
 superuser: true
 
 # Role/position/tagline
-role: Experienced Associate, Emerging Technologies
+role: Senior Associate, Emerging Technologies
 
 # Organizations/Affiliations to show in About widget
 organizations:

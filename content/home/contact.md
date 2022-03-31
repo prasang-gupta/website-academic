@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Please feel free to contact me for any query
+subtitle: Please feel free to contact me for anything !
 
 content:
   # Automatically link email and phone or display as text?

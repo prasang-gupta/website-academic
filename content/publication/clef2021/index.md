@@ -1,5 +1,5 @@
 ---
-title: "HTML Atomic UI Elements Extraction from Hand-Drawn Website Images using Mask-RCNN and novel Multi-Pass Inference Technique"
+title: "UI element detection from wireframe drawings of websites"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,14 +7,14 @@ title: "HTML Atomic UI Elements Extraction from Hand-Drawn Website Images using 
 
 authors:
 - admin
-- Swayambodha Mohapatra
+- Vishakha Bansal
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-09-22T00:00:00Z"
+date: "2021-07-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: '11th International Conference of the CLEF Association, CLEF 2020 - Thessaloniki, Greece'
+publication: '12th International Conference of the CLEF Association, CLEF 2021 - Bucharest, Romania'
 publication_short: 
 
-abstract: Website UI Design is an integral part of the world, but it is not trivial as there are a huge array of challenges that need to be conquered. A quintessential step of a website design process is to sketch the UI wireframe on paper and translating it into code later on. In an attempt to automate this process, advanced AI algorithms are explored in this study. The final approach comprises of image processing, followed by UI feature identification and localisation using Mask-RCNN and ultimately a novel Multi-Pass inference technique to boost the viability of the model. On the test dataset, the method resulted in an mAP or Mean Average Precision (IoU > 0.5) value of 64.12
+abstract: User Interfaces (UIs) wireframe is a crucial part of designing front-end of websites and mobile applications. Detection of UI elements such as paragraphs, buttons, images etc. from the wireframes using advanced Artificial Intelligence (AI) algorithms pave the way to automate the process of conversion of wireframes to Hypertext Mark-up Language (HTML) code. In this paper, we have explored different variants of 5th generation of You Only Look Once (YOLOv5) algorithm and post-processing techniques involving tuning of confidence cut-off variable for detection of UI elements. Our final approach comprises of data pre-processing using contrast normalization and conversion to black and white (BW), detection and localization of UI elements using YOLOv5x variant followed by confidence cutoff for selecting final bounding boxes. This approach resulted in Mean Average Precision (mAP) of 0.836 on the test data.
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:orangered;font-style:bold">11th International Conference of the CLEF Association, CLEF 2020 - Thessaloniki, Greece</span>
+summary: <span style="color:orangered;font-style:bold">12th International Conference of the CLEF Association, CLEF 2021 - Bucharest, Romania</span>
 
 tags: []
 
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://ceur-ws.org/Vol-2696/paper_68.pdf'
+url_pdf: 'http://ceur-ws.org/Vol-2936/paper-101.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Novel Multi Pass Inference Technique'
+  caption: 'DrawnUI element detection'
   focal_point: ""
   preview_only: false
 
