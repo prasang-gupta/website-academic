@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Publications
-subtitle: ""
+subtitle: <a href="https://www.semanticscholar.org/author/2003680911" target="_blank"> Semantic Scholar </a>
 
 content:
   # Page type to display. E.g. post, talk, publication...
