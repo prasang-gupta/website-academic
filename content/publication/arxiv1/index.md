@@ -1,5 +1,5 @@
 ---
-title: "Investigating Cargo Loss in Logistics Systems using Low-Cost Impact Sensors"
+title: "Intelligent Systematic Investment Agent: an ensemble of deep learning and evolutionary strategies"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,16 +7,16 @@ title: "Investigating Cargo Loss in Logistics Systems using Low-Cost Impact Sens
 
 authors:
 - admin
-- Antoinette Young
+- Shaz Hoda
 - Anand Rao
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2021-10-19T00:00:00Z"
-doi: "10.5121/csit.2022.120618"
+date: "2022-03-24T00:00:00Z"
+doi: "10.48550/arXiv.2203.13125"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -28,13 +28,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: '11th International Conference on Embedded Systems and Applications EMSA 2022 - Sydney, Australia'
+publication: 'Pending'
 publication_short: 
 
-abstract: Cargo loss/damage is a very common problem faced by almost any business with a supply chain arm, leading to major problems like revenue loss and reputation tarnishing. This problem can be solved by employing an asset and impact tracking solution. This would be more practical and effective for high-cost cargo in comparison to low-cost cargo due to the high costs associated with the sensors and overall solution. In this study, we propose a low-cost solution architecture that is scalable, user-friendly, easy to adopt and is viable for a large range of cargo and logistics systems. Taking inspiration from a real-life use case we solved for a client, we also provide insights into the architecture as well as the design decisions that make this a reality.
+abstract: Machine learning driven trading strategies have garnered a lot of interest over the past few years. There is, however, limited consensus on the ideal approach for the development of such trading strategies. Further, most literature has focused on trading strategies for short-term trading, with little or no focus on strategies that attempt to build long-term wealth. Our paper proposes a new approach for developing long-term investment strategies using an ensemble of evolutionary algorithms and a deep learning model by taking a series of short-term purchase decisions. Our methodology focuses on building long-term wealth by improving systematic investment planning (SIP) decisions on Exchange Traded Funds (ETF) over a period of time. We provide empirical evidence of superior performance (around 1% higher returns) using our ensemble approach as compared to the traditional daily systematic investment practice on a given ETF. Our results are based on live trading decisions made by our algorithm and executed on the Robinhood trading platform.
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:orangered;font-style:bold">11th International Conference on Embedded Systems and Applications, EMSA 2022 - Sydney, Australia</span>
+summary: <span style="color:orangered;font-style:bold">Pending</span>
 
 tags: []
 
@@ -44,9 +44,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2201.00301
+  url: https://arxiv.org/abs/2203.13125
 
-url_pdf: 'https://aircconline.com/csit/papers/vol12/csit120618.pdf'
+url_pdf: 'https://arxiv.org/pdf/2203.13125'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Designed Solution Architecture'
+  caption: 'DrawnUI element detection'
   focal_point: ""
   preview_only: false
 
@@ -68,7 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- assettracking
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
