@@ -1,40 +1,42 @@
 ---
-title: "Investigating Cargo Loss in Logistics Systems using Low-Cost Impact Sensors"
+title: Integrated Monitoring System for Chabots for Concept Drift Detection
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 
 authors:
+- Joseph Voyles
+- Siddhesh Zanj
 - admin
-- Antoinette Young
-- Anand Rao
+- Vishakha Bansal
+- Shantanu Dev
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-10-19T00:00:00Z"
-doi: "10.5121/csit.2022.120618"
+date: "2022-07-08T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-07-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: '11th International Conference on Embedded Systems and Applications EMSA 2022 - Sydney, Australia'
+publication: 'Patent Pending (US Patent Office)'
 publication_short: 
 
-abstract: Cargo loss/damage is a very common problem faced by almost any business with a supply chain arm, leading to major problems like revenue loss and reputation tarnishing. This problem can be solved by employing an asset and impact tracking solution. This would be more practical and effective for high-cost cargo in comparison to low-cost cargo due to the high costs associated with the sensors and overall solution. In this study, we propose a low-cost solution architecture that is scalable, user-friendly, easy to adopt and is viable for a large range of cargo and logistics systems. Taking inspiration from a real-life use case we solved for a client, we also provide insights into the architecture as well as the design decisions that make this a reality.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:orangered;font-style:bold">11th International Conference on Embedded Systems and Applications, EMSA 2022 - Sydney, Australia</span>
+summary: <span style="color:#5DADE2;font-style:bold">Patent Pending (US Patent Office)</span>
 
 tags: []
 
@@ -42,11 +44,8 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2201.00301
 
-url_pdf: 'https://aircconline.com/csit/papers/vol12/csit120618.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -58,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Designed Solution Architecture'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -67,8 +66,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- assettracking
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

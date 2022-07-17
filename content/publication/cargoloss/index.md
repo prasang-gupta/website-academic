@@ -1,5 +1,5 @@
 ---
-title: "HTML Atomic UI Elements Extraction from Hand-Drawn Website Images using Mask-RCNN and novel Multi-Pass Inference Technique"
+title: "Investigating Cargo Loss in Logistics Systems using Low-Cost Impact Sensors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,33 +7,34 @@ title: "HTML Atomic UI Elements Extraction from Hand-Drawn Website Images using 
 
 authors:
 - admin
-- Swayambodha Mohapatra
+- Antoinette Young
+- Anand Rao
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-09-22T00:00:00Z"
-doi: ""
+date: "2021-10-19T00:00:00Z"
+doi: "10.5121/csit.2022.120618"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-10-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: '11th International Conference of the CLEF Association, CLEF 2020 - Thessaloniki, Greece'
+publication: 'Computer Science & Information Technology Vol 12 pp 197-206'
 publication_short: 
 
-abstract: Website UI Design is an integral part of the world, but it is not trivial as there are a huge array of challenges that need to be conquered. A quintessential step of a website design process is to sketch the UI wireframe on paper and translating it into code later on. In an attempt to automate this process, advanced AI algorithms are explored in this study. The final approach comprises of image processing, followed by UI feature identification and localisation using Mask-RCNN and ultimately a novel Multi-Pass inference technique to boost the viability of the model. On the test dataset, the method resulted in an mAP or Mean Average Precision (IoU > 0.5) value of 64.12
+abstract: Cargo loss/damage is a very common problem faced by almost any business with a supply chain arm, leading to major problems like revenue loss and reputation tarnishing. This problem can be solved by employing an asset and impact tracking solution. This would be more practical and effective for high-cost cargo in comparison to low-cost cargo due to the high costs associated with the sensors and overall solution. In this study, we propose a low-cost solution architecture that is scalable, user-friendly, easy to adopt and is viable for a large range of cargo and logistics systems. Taking inspiration from a real-life use case we solved for a client, we also provide insights into the architecture as well as the design decisions that make this a reality.
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:#5DADE2;font-style:bold">11th International Conference of the CLEF Association, CLEF 2020 - Thessaloniki, Greece</span>
+summary: <span style="color:#5DADE2;font-style:bold">Computer Science & Information Technology, ISSN 2231 - 5403, vol 12 pp 197-206</span>
 
 tags: []
 
@@ -41,11 +42,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2201.00301
 
-url_pdf: 'http://ceur-ws.org/Vol-2696/paper_68.pdf'
+url_pdf: 'https://aircconline.com/csit/papers/vol12/csit120618.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Novel Multi Pass Inference Technique'
+  caption: 'Designed Solution Architecture'
   focal_point: ""
   preview_only: false
 
@@ -67,7 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- []
+- assettracking
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -35,10 +35,8 @@ content:
     tag: Robotics
   - name: Chemical Engineering
     tag: Chemical Engineering
-  - name: Aeromodelling
-    tag: Aeromodelling
   - name: Other
-    tag: Demo
+    tag: Hobby
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
