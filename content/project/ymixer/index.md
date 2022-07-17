@@ -1,6 +1,6 @@
 ---
 title: Numerical Investigation of Nanoparticle Precipitation in Y-Mixers
-subtitle: '[Prasang Gupta](), [Swati Sahu](https://www.linkedin.com/in/sahuswati), [Prof. Nishith Verma](https://www.iitk.ac.in/che/nv.htm)'
+subtitle: <span style="font-size:80%;color:#5DADE2">[ IIT Kanpur ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/sahuswati" target="_blank">Swati Sahu</a>, <a href="https://www.iitk.ac.in/che/nv.htm" target="_blank">Prof. Nishith Verma</a></span>
 summary: Performed a simulation study of nanoparticle precipitation in 2D and 3D Y-mixers solving the population balance equation. The study included fluid flow and tracer analysis using both C++ and palabos library.
 tags:
 - Chemical Engineering
@@ -36,7 +36,11 @@ url_video: ""
 slides: ""
 ---
 
+<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+
 This was an Undergraduate project under Prof. Nishith Verma which went on from March 2016 to December 2016. Our aim was to perform an investigation into the particle densities obtained by mixing two fluids in a Y-shaped mixture.
+
+<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
 
 As a first step, the y mixer model was generated in C++ in 2 and later 3 dimensions and simulations were run using the Lattice Boltzmann method. This resulted in fluid flow diagrams which were matched with experiments. After validating this model, tracer analysis was done on the outputs. This ensured us to capture the cross section and the mixing capabilities of the mixer. This was again validated from experiments.
 

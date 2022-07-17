@@ -1,13 +1,15 @@
 ---
 title: Occupancy Detection
-subtitle: 
-summary: Built a solution for anonymised occupancy detection inside office space with LIDARs with features including social bubble breach detection and zone-based real-time occupancy counts and tracking
+subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/antoinetteyoung/" target="_blank">Antoinette Young</a>, <a href="https://www.linkedin.com/in/vijay-ujjain/" target="_blank">Vijay Ujjain</a></span>
+summary: Built a solution for anonymised occupancy detection inside office space using LIDARs with features including social bubble breach detection and zone-based real-time occupancy counts and tracking
 tags:
 - IoT
 - Occupancy Detection
 - LIDAR
+- Client Delivery
+- AWS Cloud
 
-date: "2021-06-01T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,16 +32,16 @@ url_video: ""
 slides: ""
 ---
 
-* *CLIENT PROBLEM*
+<span style="color:#5DADE2;font-style:bold;font-size:120%">PROBLEM</span>
 
 The client wanted to prepare for and ensure a safe transitioning of people from "Work from home" to Office space. They wanted to make sure that the facility should be used responsibly and at no time there should be breaches of the social distancing regulations.
 
-* *OUR SOLUTION*
+<span style="color:#5DADE2;font-style:bold;font-size:120%">SOLUTION</span>
 
 ![Solution Architecture](architecture.png)
 
 We prepared a solution that gave the client the ability to track and measure the occupancy and social distancing norms anonymously. We set up a LIDAR in the client office space attached with a hub to send the data to the cloud. Several calculations and checks were performed on the cloud and the final data was sent to the dashboard. The real time occupancy readings (both overall and zone-based) were also visualised by the dashboard.
 
-* *VALUE GENERATED*
+<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
 
-As a result of our solution, the client could monitor occupancy in real-time, track occupancy trends and monitor the hotspots in the office. This can further be used to optimise the office space usage.
+As a result of our solution, the client could monitor occupancy in real-time, track occupancy trends and monitor the hotspots in the office. As an extension, this can further be used to optimise the office space usage.
