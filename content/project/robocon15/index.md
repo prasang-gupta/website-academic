@@ -1,7 +1,7 @@
 ---
 title: ABU Robocon 2015
 subtitle: <span style="font-size:80%;color:#5DADE2">[ IIT Kanpur ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.iitk.ac.in/new/bhaskar-dasgupta" target="_blank">Prof. Bhaskar Dasgupta</a></span>
-summary: Designed and developed 2 badminton playing robots (doubles on a standard badminton court) for the ABU Asia-Pacific Robot Contest 2015. *Achieved 11th rank nationally out of about 80 teams*.
+summary: Designed and developed 2 badminton playing robots (doubles on a standard badminton court) for the ABU Asia-Pacific Robot Contest 2015. <span style="color:#5DADE2;font-style:bold;font-size:120%">Achieved 11th rank nationally out of about 80 teams</span>.
 tags:
 - Robotics
 - CAD Design

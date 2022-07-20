@@ -1,7 +1,7 @@
 ---
 title: ABU Robocon 2016
 subtitle: <span style="font-size:80%;color:#5DADE2">[ IIT Kanpur ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.iitk.ac.in/new/bhaskar-dasgupta" target="_blank">Prof. Bhaskar Dasgupta</a></span>
-summary: Designed 2 robots as a part of the ABU ROBOCON 2016 challenge, one being a powered robot and the other being a non-powered robot that will move using non-contact forces provided by the former and steer using line following. The powered robot was equipped with wall following and pole climbing. *Achieved 3rd rank nationally out of about 105 teams*.
+summary: Designed 2 robots as a part of the ABU ROBOCON 2016 challenge, one being a powered robot and the other being a non-powered robot that will move using non-contact forces provided by the former and steer using line following. The powered robot was equipped with wall following and pole climbing. <span style="color:#5DADE2;font-style:bold;font-size:120%">Achieved 3rd rank nationally out of about 105 teams</span>.
 tags:
 - Robotics
 - CAD Design
