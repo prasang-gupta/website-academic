@@ -6,8 +6,8 @@ tags:
 - IoT
 - Occupancy Detection
 - LIDAR
-- Client Delivery
 - AWS Cloud
+- Client Delivery
 
 date: "2020-10-01T00:00:00Z"
 

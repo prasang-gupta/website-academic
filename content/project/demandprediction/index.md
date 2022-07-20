@@ -7,6 +7,7 @@ tags:
 - Active Learning
 - CIFAR10
 - Proof of Concept
+- ML-DL
 
 date: "2020-11-01T00:00:00Z"
 

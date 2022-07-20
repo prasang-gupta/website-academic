@@ -7,8 +7,8 @@ tags:
 - Asset Tracking
 - Cost-effective sensors
 - Logistics
-- Client Delivery
 - Low Code AEP
+- Client Delivery
 
 date: "2020-01-01T00:00:00Z"
 

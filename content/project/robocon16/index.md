@@ -8,6 +8,7 @@ tags:
 - Lightweight construction
 - Line / Wall following
 - Pole climbing
+- Hobby
 
 date: "2016-03-01T00:00:00Z"
 

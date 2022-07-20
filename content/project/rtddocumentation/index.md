@@ -15,7 +15,7 @@ date: "2021-11-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Sample homepage of the documentation
+  caption: Features of the templatised documentation
   focal_point: Smart
 
 links:

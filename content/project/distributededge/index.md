@@ -7,6 +7,7 @@ tags:
 - Distributed Compute
 - Compute at Edge
 - Proof of Concept
+- ML-DL
 
 date: "2021-05-01T00:00:00Z"
 

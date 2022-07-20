@@ -11,7 +11,8 @@ tags:
 - Raspberry Pi
 - Live Action recognition
 - Something Something Dataset
-- Exploration
+- Proof of Concept
+- ML-DL
 
 date: "2019-09-01T00:00:00Z"
 

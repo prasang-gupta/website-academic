@@ -1,14 +1,14 @@
 ---
 title: Factory Intelligence
-subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/sanika-natu/" target="_blank">Sanika Natu</a>, <a href="https://www.linkedin.com/in/paul-marc-schweitzer/" target="_blank">Paul-Marc Schweitzer</a>, <a href="https://www.linkedin.com/in/vijay-ujjain/" target="_blank">Vijay Ujjain</a></span>
+subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/sanika-natu/" target="_blank">Sanika Natu</a>, <a href="https://www.linkedin.com/in/paul-marc-schweitzer/" target="_blank">Paul-Marc Schweitzer</a>, <a href="https://www.linkedin.com/in/ameliabauer/" target="_blank">Amelia Bauer</a>, <a href="https://www.linkedin.com/in/vijay-ujjain/" target="_blank">Vijay Ujjain</a></span>
 summary: A smart factory solution with unplanned machine downtime detection and industry-standard OEE calculations using cost-effective sensors and a dashboard with key KPIs
 tags:
 - IoT
 - Factory Intelligence
 - Unplanned downtime detection
-- Client Delivery
 - AWS Cloud
 - Low Code AEP
+- Client Delivery
 
 date: "2020-07-01T00:00:00Z"
 

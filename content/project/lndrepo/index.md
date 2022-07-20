@@ -4,7 +4,7 @@ subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span styl
 summary: Collected all the firm internal / external trainings in one place and put a Tableau Live Dashboard on top of the data.
 tags:
 - Tableau
-- Internal
+- Firm Internal
 - Firm Development
 
 date: "2019-11-01T00:00:00Z"

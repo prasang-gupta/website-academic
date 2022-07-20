@@ -7,6 +7,7 @@ tags:
 - CAD Design
 - Badminton
 - ABU Robocon
+- Hobby
 
 date: "2015-03-01T00:00:00Z"
 

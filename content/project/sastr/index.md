@@ -6,6 +6,7 @@ tags:
 - Robotics
 - CAD Design
 - Localisation and Surveillance
+- Hobby
 
 date: "2015-07-01T00:00:00Z"
 
