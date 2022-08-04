@@ -25,13 +25,13 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/MVDXEXDJQWEJ
   date_end: ""
-  date_start: "2019-12-27"
-  description: "*includes the following courses* : <br>
-                - Neural Networks and Deep Learning <a href='https://www.coursera.org/account/accomplishments/certificate/5BM4XXQAZRJL' target='_blank'> [Certificate]</a><br>
-                - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization <a href='https://www.coursera.org/account/accomplishments/certificate/DYGJ73SWG6LR' target='_blank'> [Certificate]</a><br>
-                - Structuring Machine Learning Projects <a href='https://www.coursera.org/account/accomplishments/certificate/ZNFVWHRML7E3' target='_blank'> [Certificate]</a><br>
-                - Convolutional Neural Networks <a href='https://www.coursera.org/account/accomplishments/certificate/FH5QSFGKLRX2' target='_blank'> [Certificate]</a><br>
-                - Sequence Models <a href='https://www.coursera.org/account/accomplishments/certificate/KJEVZPRHVQ4P' target='_blank'> [Certificate]</a>"
+  date_start: "2019-12-01"
+  description: '*includes the following courses* : <br>
+                - Neural Networks and Deep Learning <br>
+                - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization <br>
+                - Structuring Machine Learning Projects <br>
+                - Convolutional Neural Networks <br>
+                - Sequence Models <a href="https://www.google.com/" target="_blank"> (Certificate) </a>'
   organization: Coursera
   organization_url: https://www.coursera.org
   title: 'Deep Learning Specialization'
@@ -39,12 +39,12 @@ item:
 
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/NRS45PNZFTFB
   date_end: ""
-  date_start: "2020-02-08"
+  date_start: "2020-02-01"
   description: "*includes the following courses* : <br>
-                - Fundamentals of Reinforcement Learning <a href='https://www.coursera.org/account/accomplishments/certificate/QK8SN7N7ZFK6' target='_blank'> [Certificate]</a><br>
-                - Sample-based Learning Methods <a href='https://www.coursera.org/account/accomplishments/certificate/RNZV8WL6ZHUD' target='_blank'> [Certificate]</a><br>
-                - Prediction and Control with Function Approximation <a href='https://www.coursera.org/account/accomplishments/certificate/4XZ4RWH3U3SV' target='_blank'> [Certificate]</a><br>
-                - A Complete Reinforcement Learning System (Capstone) <a href='https://www.coursera.org/account/accomplishments/certificate/X6GC9MP9U8ZD' target='_blank'> [Certificate]</a>"
+                - Fundamentals of Reinforcement Learning <br>
+                - Sample-based Learning Methods <br>
+                - Prediction and Control with Function Approximation <br>
+                - A Complete Reinforcement Learning System (Capstone)"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: 'Reinforcement Learning Specialization'
@@ -52,12 +52,12 @@ item:
 
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/UCLZEK7GUS7E
   date_end: ""
-  date_start: "2021-05-10"
+  date_start: "2021-05-01"
   description: "*includes the following courses* : <br>
-                - Natural Language Processing with Classification and Vector Spaces <a href='https://www.coursera.org/account/accomplishments/certificate/Z2PYAAKY7QV7' target='_blank'> [Certificate]</a><br>
-                - Natural Language Processing with Probabilistic Models <a href='https://www.coursera.org/account/accomplishments/certificate/YMHW3NBJ74RK' target='_blank'> [Certificate]</a><br>
-                - Natural Language Processing with Sequence Models <a href='https://www.coursera.org/account/accomplishments/certificate/TKWNH45UYEGC' target='_blank'> [Certificate]</a><br>
-                - Natural Language Processing with Attention Models <a href='https://www.coursera.org/account/accomplishments/certificate/7ACJDMS8N4K3' target='_blank'> [Certificate]</a>"
+                - Natural Language Processing with Classification and Vector Spaces <br>
+                - Natural Language Processing with Probabilistic Models <br>
+                - Natural Language Processing with Sequence Models <br>
+                - Natural Language Processing with Attention Models"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: 'Natural Language Processing Specialization'
@@ -65,11 +65,11 @@ item:
 
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/HHXHS6TEVPTG
   date_end: ""
-  date_start: "2021-05-13"
+  date_start: "2021-05-01"
   description: "*includes the following courses* : <br>
-                - Build Basic Generative Adversarial Networks (GANs) <a href='https://www.coursera.org/account/accomplishments/certificate/2MRN4GLAFSDA' target='_blank'> [Certificate]</a><br>
-                - Build Better Generative Adversarial Networks (GANs) <a href='https://www.coursera.org/account/accomplishments/certificate/G2N5CTHFDPWP' target='_blank'> [Certificate]</a><br>
-                - Apply Generative Adversarial Networks (GANs) <a href='https://www.coursera.org/account/accomplishments/certificate/YAHPL4872BHL' target='_blank'> [Certificate]</a>"
+                - Build Basic Generative Adversarial Networks (GANs) <br>
+                - Build Better Generative Adversarial Networks (GANs) <br>
+                - Apply Generative Adversarial Networks (GANs)"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: 'Generative Adversarial Networks (GANs) Specialization'

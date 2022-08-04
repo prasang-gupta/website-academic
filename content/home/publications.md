@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Patents & Publications
+title: Publications
 subtitle: <a href="https://www.semanticscholar.org/author/2003680911" target="_blank"> Semantic Scholar </a>
 
 content:

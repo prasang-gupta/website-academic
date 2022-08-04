@@ -1,6 +1,6 @@
 ---
 title: Complete Plant Design of Acrylic Acid
-subtitle: <span style="font-size:80%;color:#5DADE2">[ IIT Kanpur ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/amanishadas/" target="_blank">Amanisha Das</a>, <a href="https://www.linkedin.com/in/mohammad-a-6371aaa6/" target="_blank">Mohd. Aqib</a>, <a href="https://www.iitk.ac.in/che/nk.htm" target="_blank">Prof. Nitin Kaistha</a></span>
+subtitle: 
 summary: Designed, simulated and optimised a complete plant design for the production of acryclic acid with raw materials on ASPEN HYSYS and MATLAB. Successfully tuned the plant for optimal performance with minimum cost and robustness to raw material stream fluctuations.
 tags:
 - Chemical Engineering
@@ -31,11 +31,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
-
 This was a course project for Chemical Desgin course under Prof. Nitin Kaistha. The aim of the project was to design a chemical plant from scratch for the production of acrylic acid. The design should be optimal with respect to the different costs associated with the production and it should be robust to input stream fluctuations. This was a rather interesting project as it brought together everything that we learned in the span of 3 years.
-
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
 
 The design was meticulously thought of by theoretical knowledge and the whole plant was simulated using ASPEN HYSYS package. The simulations were done both for the equilibrium stage of the plant as well as for the dynamics with controllers attached to several parts of the components, as can be seen in the figure.

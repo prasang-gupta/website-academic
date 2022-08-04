@@ -1,22 +1,19 @@
 ---
 title: Cross-country Asset Tracking
-subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/antoinetteyoung/" target="_blank">Antoinette Young</a>, <a href="https://www.linkedin.com/in/vijay-ujjain/" target="_blank">Vijay Ujjain</a></span>
-summary: Tracked cargo shipment using cost-effective sensors along its cross-country journey from factory to distribution center ascertaining possible locations of damage for effective preventive steps
+subtitle: 
+summary: Tracked cargo shipment using cost-effective sensors along its journey from factory to distribution center (between countries with road and water route) ascertaining possible locations of damage
 tags:
 - IoT
 - Asset Tracking
 - Cost-effective sensors
-- Logistics
-- Low Code AEP
-- Client Delivery
 
-date: "2020-01-01T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Snapshot of the tracking dashboard given to the client
+  caption: Snapshot of the asset dashboard given to the client
   focal_point: Smart
 
 links:
@@ -33,11 +30,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">PROBLEM</span>
+* *CLIENT PROBLEM*
 
 The client were facing problems with cargo damage while in transit which were resulting in huge losses for them. Also, since the transit included multiple contractors responsible for different stretches of the overall route, and nobody was taking responsibility for the damages, they were at a loss and had no idea how to rectify this.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">SOLUTION</span>
+* *OUR SOLUTION*
 
 ![Solution Architecture](architecture.png)
 
@@ -47,6 +44,6 @@ Thresholding was done on the accelerometer sensor housed in the device to store 
 
 The raw data collection and conversion to impact system was built on an application enablement platform. This resulted in quick prototyping and testing of the proof of concept. The processed data was then sent to a live dahsboard which was shared with the client for their perusal. This dashboard offered several important metrics such as the last known location, temperature and battery of the device. It also showed the impact values versus timestamp which were recorded by the device.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+* *VALUE GENERATED*
 
 From using this solution, we were able to ascertain different impact values faced by the device during different portions of the journey. This helped the client to visualise and piece together possible regions where the shipment was getting damaged. Our analysis found that most of the impacts registered by the device were when the device was travelling from the factory to the ports, which was contrary to the earlier belief of the client that most of the damage was being caused during the ship route. This allowed the client to focus on that section and helped them save a lot of revenue spent on replacing damaged products as well as save the reputation of the company.

@@ -27,22 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: ML & DL
-    tag: ML-DL
+  - name: Deep Learning
+    tag: Deep Learning
   - name: IoT & Edge
     tag: IoT
-  - name: Chem. Engg.
+  - name: Robotics
+    tag: Robotics
+  - name: Chemical Engineering
     tag: Chemical Engineering
-  - name: Client
-    tag: Client Delivery
-  - name: PoC
-    tag: Proof of Concept
-  - name: Internal
-    tag: Firm Internal
-  - name: Hackathon
-    tag: Hackathon
+  - name: Aeromodelling
+    tag: Aeromodelling
   - name: Other
-    tag: Hobby
+    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

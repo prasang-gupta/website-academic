@@ -1,6 +1,6 @@
 ---
 title: PID Characteristics
-subtitle: <span style="font-size:80%;color:#5DADE2">[ IIT Kanpur ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/prashant-singhla-79471199/" target="_blank">Prashant Singhla</a>, <a href="https://www.iitk.ac.in/che/at.htm" target="_blank">Prof. Anurag Tripathi</a></span>
+subtitle: 
 summary: Studied the control characteristics of a process with temperature scaling. Tuned the parameters using PID tuning on MATLAB.
 tags:
 - Chemical Engineering
@@ -30,11 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
-
 This was a part of the Unit Operations Lab course. The aim of this project was to innovate and go above and beyond the standard lab experiments with the same equipment.
-
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
 
 We modelled the whole process in MATLAB Simulink deriving transfer functions from experimental data. Also, we took the default PID values present in the controller on the setup and tuned those values. We found that the response received is much better than the default response recorded. Hence, we submitted the parameters to be updated in the controller for more accurate experiments thereafter.
