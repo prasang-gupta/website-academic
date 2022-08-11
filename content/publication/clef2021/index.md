@@ -24,18 +24,18 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '12th International Conference of the CLEF Association, CLEF 2021 - Bucharest, Romania'
+publication: '12th International Conference of the CLEF Association (CLEF 2021) - Bucharest, Romania'
 publication_short: 
 
 abstract: User Interfaces (UIs) wireframe is a crucial part of designing front-end of websites and mobile applications. Detection of UI elements such as paragraphs, buttons, images etc. from the wireframes using advanced Artificial Intelligence (AI) algorithms pave the way to automate the process of conversion of wireframes to Hypertext Mark-up Language (HTML) code. In this paper, we have explored different variants of 5th generation of You Only Look Once (YOLOv5) algorithm and post-processing techniques involving tuning of confidence cut-off variable for detection of UI elements. Our final approach comprises of data pre-processing using contrast normalization and conversion to black and white (BW), detection and localization of UI elements using YOLOv5x variant followed by confidence cutoff for selecting final bounding boxes. This approach resulted in Mean Average Precision (mAP) of 0.836 on the test data.
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:orangered;font-style:bold">12th International Conference of the CLEF Association, CLEF 2021 - Bucharest, Romania</span>
+summary: <span style="color:#5DADE2;font-style:bold">12th International Conference of the CLEF Association (CLEF 2021) - Bucharest, Romania</span>
 
-tags: []
+tags: ['Website UI elements', 'UI element extraction', 'Image Processing', 'OpenCV', 'Object Detection', 'YOLOv5', 'Confidence Cutoff Variation']
 
 # Display this page in the Featured widget?
 featured: true
@@ -76,13 +76,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

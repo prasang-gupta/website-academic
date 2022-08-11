@@ -19,24 +19,24 @@ date: "2021-10-19T00:00:00Z"
 doi: "10.5121/csit.2022.120618"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-10-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '11th International Conference on Embedded Systems and Applications EMSA 2022 - Sydney, Australia'
-publication_short: 
+publication: '11th International Conference on Embedded Systems and Applications (EMSA 2022) - Sydney, Australia'
+publication_short:
 
 abstract: Cargo loss/damage is a very common problem faced by almost any business with a supply chain arm, leading to major problems like revenue loss and reputation tarnishing. This problem can be solved by employing an asset and impact tracking solution. This would be more practical and effective for high-cost cargo in comparison to low-cost cargo due to the high costs associated with the sensors and overall solution. In this study, we propose a low-cost solution architecture that is scalable, user-friendly, easy to adopt and is viable for a large range of cargo and logistics systems. Taking inspiration from a real-life use case we solved for a client, we also provide insights into the architecture as well as the design decisions that make this a reality.
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:orangered;font-style:bold">11th International Conference on Embedded Systems and Applications, EMSA 2022 - Sydney, Australia</span>
+summary: <span style="color:#5DADE2;font-style:bold">11th International Conference on Embedded Systems and Applications (EMSA 2022) - Sydney, Australia</span>
 
-tags: []
+tags: ['Asset tracking', 'Logistics', 'Cargo loss', 'Cargo damage', 'Impact sensor', 'Accelerometer sensor', 'Low-cost solution', 'No code AEP (Application Enablement Platform)']
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,7 +45,8 @@ featured: true
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2201.00301
-
+- name: Full Proceedings
+  url: https://airccse.org/csit/V12N06.html
 url_pdf: 'https://aircconline.com/csit/papers/vol12/csit120618.pdf'
 url_code: ''
 url_dataset: ''
@@ -53,7 +54,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=MbxmwsOHKTk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -77,13 +78,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
