@@ -1,11 +1,12 @@
 ---
 title: Semi-Autonomous Surveillance and Tranportation Robot
-subtitle: 
+subtitle: <span style="font-size:80%;color:#5DADE2">[ IIT Kanpur ] </span><span style="font-size:80%"><a href="https://www.linkedin.com/in/dgangwar20/" target="_blank">Deepak Gangwar</a>, <a href="https://www.linkedin.com/in/shibhansh-dohare/" target="_blank">Shibhansh Dohare</a>, <a href="https://www.linkedin.com/in/vaibhav-bhagat-380978a3/" target="_blank">Vaibhav Bhagat</a>, <a href="https://www.linkedin.com/in/snehilverma41/" target="_blank">Snehil Verma</a>, Prasang Gupta</span>
 summary: Developed an all-terrain vehicle capable of automatic navigation and surveillance using Embedded systems and Google Maps API.
 tags:
 - Robotics
 - CAD Design
 - Localisation and Surveillance
+- Hobby
 
 date: "2015-07-01T00:00:00Z"
 
@@ -29,6 +30,11 @@ url_video: "https://www.youtube.com/watch?v=oLeQH6g9hCo"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+
 This project was done as a part of the summer project offering from Robotics Club, IIT Kanpur. The aim of this project was to build an all-terrain robot capable of autonomous navigation and provide surveillance in remote areas.
+
+<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
 
 We modelled the robot on Solidworks and machined it using aluminium and CNC machines. For navigation, we integrated the IMU sensor with the GPS anc coupled them together iwth a Kalman filter. Also, we imported Google Maps API for setting the route to be travelled and later converted the route into different waypoints to be followed. This waypoint file was uploaded to the robot's APM (mission planner).

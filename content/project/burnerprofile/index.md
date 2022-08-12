@@ -1,6 +1,6 @@
 ---
 title: Numerical Study of SiO2 Burner profiles
-subtitle: '[Prasang Gupta](), [Sana Khanum](https://www.linkedin.com/in/sana-khanum-90625bb7), [Prof. Naveen Tiwari](https://www.iitk.ac.in/che/nt.htm), [Prof. V Shankar](https://home.iitk.ac.in/~vshankar), [Prof. Goutam Deo](https://www.iitk.ac.in/che/gd.htm)'
+subtitle: <span style="font-size:80%;color:#5DADE2">[ IIT Kanpur ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/sana-khanum-90625bb7" target="_blank">Sana Khanum</a>, <a href="https://www.iitk.ac.in/che/nt.htm" target="_blank">Prof. Naveen Tiwari</a>, <a href="https://www.iitk.ac.in/che/vs.htm" target="_blank">Prof. V Shankar</a>, <a href="https://www.iitk.ac.in/che/gd.htm" target="_blank">Prof. Goutam Deo</a></span>
 summary: Performed a numerical study of SiO2 burner profiles simulating a burner flame and calculating the flame temperature profile and species distribution in the flame.
 tags:
 - Chemical Engineering
@@ -33,12 +33,19 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+
 This was an Undergraduate project under Prof. Naveen Tiwari, Prof. V Shankar and Prof. Goutam Deo from January 2017 to March 2017. The aim of the study was to model an SiO2 burner with specific dimensions and study the temperature profiles of the burner. The project also included studiyng the distribution of different species present at different distances away from the flame.
+
+<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
 
 To kick off the modelling, adiabatic flame temperature was calculated for a hydrogen-oxygen combustion process. The equilibrium analysis was done on ASPEN Plus package. To validate the results, the same value was cross-referenced with literature values. It was found to be in good agreement with that. Next, a 100% conversion analysis was done using the same suite. However, this time the same model was built using first principles on MATLAB and the results were compared. Again, there was a very good agreement with both of these values. Hence, we concluded that the modelling process done in the ASPEN Plus suite is correct.
 
 Having validated our model, we started experimenting with different conditions for the same process. This included changing the temperature as well as adding Silicon Tetrachloride in the feed. Finally, a dependence between the hydrogen flow rate with the adiabatic temperature was established.
 
-Next, we moved on to the kinetics of the problem. The overall reaction was broken down into several different intermediate reactions. Every one of these intermediate reactions have different kinetic parameters. All the possible intermediate reactions were written and validated with theroy and literature. Preliminary reaction kinetics were performed with an assumed value of burner diameter and were qualitatively checked with literature values.
+Next, we moved on to the kinetics of the problem. The overall reaction was broken down into several different intermediate reactions. Every one of these intermediate reactions have different kinetic parameters. All the possible intermediate reactions were written and validated with theory and literature. Preliminary reaction kinetics were performed with an assumed value of burner diameter and were qualitatively checked with literature values.
 
-Further, the original burner dimensions were added to the model and all the calculations were re-run for this. The mole fractions of the different species were studied at the end of the flame. This provided much better view into the temperature variation in the flame and the different reaction progress with the length of the flame. This gave us the minimum length of the flame to ensure that the reaction gets over and a maximum conversion of raw materials to products can be achieved with minimal waste.
+<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+
+Having a validated model ready for use, the original burner dimensions used by the industrial partner were added to the model and all the calculations were re-run for this. The mole fractions of the different species were studied at the end of the flame. This provided much better view into the temperature variation in the flame and the different reaction progress with the length of the flame. This gave the industrial partner insights into the minimum length of the flame to ensure that the reaction gets over and a maximum conversion of raw materials to products can be achieved with minimal waste.
