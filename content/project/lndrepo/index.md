@@ -1,25 +1,25 @@
 ---
 title: Trainings Repository
-subtitle: 
+subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/deepesh-hiran-4206296/" target="_blank">Deepesh Hiran</a></span>
 summary: Collected all the firm internal / external trainings in one place and put a Tableau Live Dashboard on top of the data.
 tags:
-- Deep Learning
-- Active Learning
-- CIFAR10
+- Tableau
+- Firm Internal
+- Firm Development
 
-date: "2020-12-01T00:00:00Z"
+date: "2019-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Damage segmentation on a sample image
+  caption: A snapshot of the final trainings dashboard
   focal_point: Smart
 
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "https://drive.google.com/file/d/1sh_Z4zjFPV9Pown8UiY6Gatb9ZgGBHgP/view?usp=sharing"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
@@ -29,6 +29,15 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The aim of the study was to try the effectiveness of active learning for cases where labelled data is scarce. The dataset chosen for this study was CIFAR10. This dataset contains 60,000 images of size 32x32 with 10 classes. The images are single label and are mutually exclusive from each other. We have used a maximum of 10,000 images at each time for trainig purposes.
 
-This study's focus was to compare the performance of active and passive learning on the same dataset size. The passive learning model would be trained on a uniform distribution of the dataset size, however, the active learning model would be initialised with half the training size and then would be trained for the full size by sequential queries. We have tried 3 queries in this study : uncertainty, margin sampling and entropy sampling. We achieved better performance with active learning for all the sizes, however, the difference between the performance of the two varied depending on the total size of the dataset going from as low as 1% to a sizable 23%. The details for all the experiments and the queries can be seen in the slides.
+<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+
+The aim of this project was to consolidate the different trainings held in the firm for the last 3-4 years and generate a searchable dashboard with relevant information.
+
+<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+
+The consolidation and standardisation for all the trainings was done by scraping information from mails and other portals and arranging them in google drive based on the scraping output. A live tableau dashboard was then generated from the index sheet and deployed on a central platform that everyone in the firm can access. Apart from keyword search, multiple filters were also included in the dashboard.
+
+<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+
+This dashboard allowed people in the firm to search for past trainings with feedback and help plan future trainings based on that. Also, several hours were saved allowing people to re-use decks and other material from past trainings. This also helped foster an environment of self-learning within the firm as one can just search and get all the material relevant for a particular topic in just seconds.
