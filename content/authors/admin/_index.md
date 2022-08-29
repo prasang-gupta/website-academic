@@ -10,7 +10,7 @@ role: Senior Associate, Emerging Technologies
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: PwC US Advisory
+- name: PwC US
   url: https://www.pwc.com/us/en.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -47,7 +47,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=BIJMLgsAAAAJ&hl=en
+  link: https://www.semanticscholar.org/author/Prasang-Gupta/2003680911
 - icon: github
   icon_pack: fab
   link: https://github.com/prasang-gupta
