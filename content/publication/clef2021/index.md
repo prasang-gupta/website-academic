@@ -50,7 +50,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1ihSdVTljhtNBSJ7HZbK8BwW1NHWc6De-'
 url_source: ''
 url_video: ''
 
@@ -67,7 +67,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- []
+- websiteuidetection
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

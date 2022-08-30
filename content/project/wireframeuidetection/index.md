@@ -27,7 +27,7 @@ links:
   url: publication/clef2020
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1lugSGraB3toxS0a8JSdKNWV1rhPSED0R"
 url_video: ""
 
 # Slides (optional).
