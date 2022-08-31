@@ -35,11 +35,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">PROBLEM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">PROBLEM</a></span>
 
 The client wanted to switch from legacy contract management tool to a new vendor. However, they were not confident of the metadata they had for the contracts and wanted help in getting all the major information extracted from the documents. They also wanted hierarchical linkages for most of the contracts for better organisation in the new tool.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">SOLUTION</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">SOLUTION</a></span>
 
 We solved the first problem with a myriad of different tools. These included advanced NLP models for entity extraction based on transformers, tree based ML models for certain classifications and logic-driven string search models.
 
@@ -51,7 +51,7 @@ We built logic-based string search models for those fields which were not abunda
 
 All of these extractions were provided to the client and after spot-checking and QA, were used in the construction of hierarchical linkages. Strong linkages were built by extracting the reference phrase within contracts that contains the details regarding the parent or the child contract. These were then translated back to the database we had. Weak linkages were also built based off of logic to combine documents under each MSA umbrella wherever the extraction of the reference phrase wasn't possible.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 The extractions provided to the client passed the QA test with about 90% accuracy. Also, we managed to provide hierchical linkages for more than 75% of the documents provided to us that could be linked.
 

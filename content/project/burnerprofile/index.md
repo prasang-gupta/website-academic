@@ -34,11 +34,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 This was an Undergraduate project under Prof. Naveen Tiwari, Prof. V Shankar and Prof. Goutam Deo from January 2017 to March 2017. The aim of the study was to model an SiO2 burner with specific dimensions and study the temperature profiles of the burner. The project also included studiyng the distribution of different species present at different distances away from the flame.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 To kick off the modelling, adiabatic flame temperature was calculated for a hydrogen-oxygen combustion process. The equilibrium analysis was done on ASPEN Plus package. To validate the results, the same value was cross-referenced with literature values. It was found to be in good agreement with that. Next, a 100% conversion analysis was done using the same suite. However, this time the same model was built using first principles on MATLAB and the results were compared. Again, there was a very good agreement with both of these values. Hence, we concluded that the modelling process done in the ASPEN Plus suite is correct.
 
@@ -46,6 +46,6 @@ Having validated our model, we started experimenting with different conditions f
 
 Next, we moved on to the kinetics of the problem. The overall reaction was broken down into several different intermediate reactions. Every one of these intermediate reactions have different kinetic parameters. All the possible intermediate reactions were written and validated with theory and literature. Preliminary reaction kinetics were performed with an assumed value of burner diameter and were qualitatively checked with literature values.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 Having a validated model ready for use, the original burner dimensions used by the industrial partner were added to the model and all the calculations were re-run for this. The mole fractions of the different species were studied at the end of the flame. This provided much better view into the temperature variation in the flame and the different reaction progress with the length of the flame. This gave the industrial partner insights into the minimum length of the flame to ensure that the reaction gets over and a maximum conversion of raw materials to products can be achieved with minimal waste.

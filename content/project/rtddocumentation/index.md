@@ -32,14 +32,14 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 The aim of this project was to create a solution that would auto-create documentation given a code repository with docstrings. The main focus of this solution was be to allow generating quick documentation that can be hosted on Github pages for making it easier to re-use codebases because of a standardised documentation format.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 We created a documentation template and chose RTD (Read The Docs) as standard formatting because of its popularity among open source tools. We built 2 methods within the solution, first focused on generating and hosting documentation quickly (under 10 minutes) and the second focused on learning the nitty-gritties of how Sphinx works and providing much more room for modifications and personalisation. This system can also be used to generate documentation in PDF format using latex.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 The solution was used widely across different teams and it allowed easy re-use of code. It also cultivated a good culture of writing docstrings in functions and classes across the whole team.

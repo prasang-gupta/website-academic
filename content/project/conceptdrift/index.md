@@ -39,11 +39,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 The aim of this project was to create a drift detection toolkit that can be easily used to detect drift in any type of data (image, audio or text) using a multitude of different drift detection methods to suit every problem under the sun. We also tested this toolkit's ease of use by several case studies of different mock data types and also by integrating this with a chatbot built using RASA architecture to generate a novel drift-aware monitored chatbot.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 The drift detection toolkit was built using several different drift detection methods like :
 
@@ -56,10 +56,10 @@ The drift detection toolkit was built using several different drift detection me
 
 We implemented these methods and verified that these methods are functioning properly using curated open-source datasets. After verifying all these methods for different types of data (text, audio and images), we implemented an integrated architecture with a chatbot built using RASA framework.
 
-![RASA process flow](architecture.png)
+{{< figure src="architecture.png" caption="RASA process flow" theme="light">}}
 
 The process flow diagram shows the working of the integrated system. We implemented several novel methods that ensured our solution remained as general as possible and it does not hamper the whole process in any way whatsoever. Additionally, in case drift is detected, we also made a training pipeline that would incorporate the changes in the model weights without having any model downtime. 
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 The solution developed can be implemented with most of the chatbots that are currently in production. Implementing our system would ensure that the model does not lose intent quickly, and if it does, then proper notifications are being provided to the user based on the drift detection systems in place. It would also provide the developer with all the data that is needed to troubleshoot any issues and if needed, retrain the model to counter the drift without experiencing any downtimes.

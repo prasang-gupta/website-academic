@@ -31,10 +31,10 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 This was a part of the Unit Operations Lab course. The aim of this project was to innovate and go above and beyond the standard lab experiments with the same equipment.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 We modelled the whole process in MATLAB Simulink deriving transfer functions from experimental data. Also, we took the default PID values present in the controller on the setup and tuned those values. We found that the response received is much better than the default response recorded. Hence, we submitted the parameters to be updated in the controller for more accurate experiments thereafter.

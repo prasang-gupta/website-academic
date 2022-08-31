@@ -39,11 +39,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 The aim of this project was to explore Evolutionary strategies as an alternative to the classicaly used Reinforcement learning techniques to solve the ETF trading investment problem.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 Historically, autonomous agents for trading and investment are generally built using one of the many reinforcement learning techniques. These include the SOTA Actor-critic algorithms as well as simpler DQN based algorithms. The problem with these is that an environment needs to be setup for training them and the learning curve for these algorithms is a bit steep for someone inexperienced in the field of Reinforcement Learning.
 
@@ -51,10 +51,10 @@ We demonstrated that using Evolutionary strategies to solve episodic problems (w
 
 We compared both qualitative and quantitative metrics for our ensemble algorithm we call `GADLE` with 2 traditional RL-based solutions, Actor-critic and DQN. Qualitatively, we compared the ease of writing of code and ease of understanding. Quantitatively, we ran different experiments centered around performance, sensitivity and consistency of the solutions.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 The proposed GADLE algorithm performs at par with the Actor-critic algorithm. However, it crushes the competition in terms of consistency and sensitivity. To put things in perspective, following are the tables summarising results of the sensitivity and the consistency experiments.
 
-![Sensitivity comparison](sensitivity.png)
+{{< figure src="sensitivity.png" caption="Sensitivity comparison between GADLE and other algorithms" theme="light" >}}
 
-![Consistency comparison](consistency.png)
+{{< figure src="consistency.png" caption="Consistency comparison between GADLE and other algorithms" theme="light" >}}

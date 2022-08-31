@@ -34,11 +34,11 @@ url_video: "https://drive.google.com/file/d/198q-E9mD_rMr6DEBi5jX4Uuzc5sC17Ep"
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 The aim of this study was to test out some of the features offered by Worlds.io and create a generalised digital twin solution that can be leveraged in future projects. This would include generating a digital replication of their current environment and answer some of the questions based off of that with some additional analysis to allow clients to make better oeprational and strategic decisions.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 ![Solution Architecture](animation.gif)
 
@@ -57,6 +57,6 @@ The conversion to cartesian coordinates helped us to map the pedestrian movement
 - How many people per hour, walking speed, which way are they going, 
 - What % of people are stopping?
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 We were able to run analytics on the video feed and the derived variables. Also, we were able to generate a digital twin using the converted coordinates. This helped us build capability for any future projects that might entail the use of these technologies.

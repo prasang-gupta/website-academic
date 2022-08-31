@@ -1,7 +1,7 @@
 ---
 title: ABU Robocon 2016
 subtitle: <span style="font-size:80%;color:#5DADE2">[ IIT Kanpur ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.iitk.ac.in/new/bhaskar-dasgupta" target="_blank">Prof. Bhaskar Dasgupta</a></span>
-summary: Designed 2 robots as a part of the ABU ROBOCON 2016 challenge, one being a powered robot and the other being a non-powered robot that will move using non-contact forces provided by the former and steer using line following. The powered robot was equipped with wall following and pole climbing. <span style="color:#5DADE2;font-style:bold;font-size:120%">Achieved 3rd rank nationally out of about 105 teams</span>.
+summary: Designed 2 robots as a part of the ABU ROBOCON 2016 challenge, one being a powered robot and the other being a non-powered robot that will move using non-contact forces provided by the former and steer using line following. The powered robot was equipped with wall following and pole climbing. <span style="color:#33cc33;font-style:bold;font-size:120%">Achieved $3^{rd}$ rank nationally out of about 105 teams</span>.
 tags:
 - Robotics
 - CAD Design
@@ -33,13 +33,13 @@ url_video: "https://drive.google.com/file/d/1RuoNJo4hZO94AfsNhCb0M3EZIVAjV5_I/vi
 slides: ""
 ---
 
-<span style="color:#58D68D">We achieved</span> <span style="color:#52BE80;font-style:bold;font-size:120%">3rd rank</span> <span style="color:#58D68D">among the 105 teams that participated from different technical institutions from all across India.</span>
+<span style="color:#33cc33">We achieved</span> <span style="color:#33cc33;font-style:bold;font-size:120%">$3^{rd}$ rank</span> <span style="color:#33cc33">among the 105 teams that participated from different technical institutions from all across India.</span>
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 ROBOCON is an Asia-Pacific robotics competition held every year with different problem statements. The problem statements are carefully curated to encourage design innovations in the field of robotics. The theme of the competition for the year 2016 was "Clean Energy recharging of world". The problem statement was to make 2 robots, one being a powered robot and the other being a non-powered robot that will move using non-contact forces provided by the former. The aim was to make the non-powered robot travel on a path with elevation, curves, sharp turns etc autonomously using line following. This bot was carrying a lightweight fan. The other robot, in addition to providing the required force for the non-powered robot to move, had to collect the aforementioned fan from the non-powered robot after it had covered the entire stretch, climb a pole and then place the fan on the top of the pole. This would mark the completion ("Chai-Yo" as they called it) of the challenge and the team that achieves this first would win.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 I was one of the leaders in the 21 member team that took part in the competition represting my alma mater, IIT Kanpur. We worked on this from October 2015 to March 2016. We managed to achieve  that participated from different technical institutions from all across India.
 

@@ -33,11 +33,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 The aim of this project was to generate a solution that would auto-format any PPT in PwC-compliant format. The changes included several editorial changes (word alternatives, punctuations) and branding changes (colors, formatting). It also included aligning any misaligned objects present in the PPT.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 We decided to edit the underlying XML format of the presentation (using the open office lxml format) in addition to actually editing the PPT itself. We wrote code to parse the PPT in an editable format and then created a modular structure to work on different portions of the PPT. Some modules were rule-based, some were logic driven based on the requirements and some modules incorporated ML solutions developed for sub-problems wherever possible. Some of the modules built were:
 
@@ -54,6 +54,6 @@ We decided to edit the underlying XML format of the presentation (using the open
 | Colors | Branding | Changed the colors (font, background, pictograms) to be replaced with the nearest PwC-approved colors based off of a novel color matching technique |
 | Animations | Branding | Detected and changed any animations in the presentation wherever applicable |
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 This solution built was deployed on an internal hosting service and was made available as a service. The total processing time for an average presentation was about 5 minutes with all the modules active. This brought down the time to manually review and format average presentations from 30 minutes to about 10 minutes. The solution was not perfect, but it helped ensure that most of the repetitive tasks are taken care of by the code and only final inspection with some modifications need to be done by the manual reviewers, saving thousands of manhours for the firm.

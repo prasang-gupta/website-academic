@@ -32,10 +32,10 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 This was a course project for Chemical Desgin course under Prof. Nitin Kaistha. The aim of the project was to design a chemical plant from scratch for the production of acrylic acid. The design should be optimal with respect to the different costs associated with the production and it should be robust to input stream fluctuations. This was a rather interesting project as it brought together everything that we learned in the span of 3 years.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 The design was meticulously thought of by theoretical knowledge and the whole plant was simulated using ASPEN HYSYS package. The simulations were done both for the equilibrium stage of the plant as well as for the dynamics with controllers attached to several parts of the components, as can be seen in the figure.

@@ -36,12 +36,16 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 This was an Undergraduate project under Prof. Nishith Verma which went on from March 2016 to December 2016. Our aim was to perform an investigation into the particle densities obtained by mixing two fluids in a Y-shaped mixture.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 As a first step, the y mixer model was generated in C++ in 2 and later 3 dimensions and simulations were run using the Lattice Boltzmann method. This resulted in fluid flow diagrams which were matched with experiments. After validating this model, tracer analysis was done on the outputs. This ensured us to capture the cross section and the mixing capabilities of the mixer. This was again validated from experiments.
 
 Having a C++ lattice boltzmann model ready, we moved on to using the palabos library to include population balance equations in our simulation model. This included the new calculations as well as sped up the entire code by about 40%. Nucleation rates and growth rates for the different particles were provided based on experimental chemical reactions and the population density of the product was studied at different cross sections of the mixer representing varying mixer sizes.
+
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
+
+With this study, drug flow could be simulated in the blood vessels with proper mixing patterns, as in the case of y mixer. This would help in accelerating the drug flow studies as results could be obtained in a much faster way and the properties of the drug can be tweaked and adjusted based on the simulated flow patterns.

@@ -32,18 +32,18 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 The aim of this study was to build a system to distribute compute load across different resources present on the edge. It also involved testing the built system with a dummy exercise and find out the robustness of the system and any additional points that might need to be taken care of before actually attempting a client project in this domain.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
-![Solution Architecture](architecture.png)
+{{< figure src="architecture.png" caption="Solution Architecture" theme="light" >}}
 
 We built out a system for distributed edge compute using microk8s, a micro kubernetes engine. We paired it with metalb, a load balancer and dashboarding, resource tracking and reporting tools like grafana and prometheus. To simulate an edge environment, a local ensemble of devices was created and connected together on the same network. A total of 3 devices were included in the network including a raspbery pi, a windows laptop and an edge compute appliance. For testing out the pipeline, we ran a simple object detection model on all the devices using tensorflow serving.
 
 While testing, we also came across several limitations of the architecture. The first is that the compute power was very skewed within the networks (x86 devices were orders of magnitude faster than ARM). This lead to bottlenecking at times even with the load balancer. We also realised that running a full object detection model on small devices was not a great idea due to the compute and memory limitations of each device.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 The system built was a demonstration that multiple unused devices can be pooled together at the edge to increase the overall compute capabilities, reducing the lag of transferring data to and from the cloud. Apart from reducing latency, it also helps in keeping the data secure as everything is happening locally. This also ensures that no single edge device is overutilised hampering the pipeline.

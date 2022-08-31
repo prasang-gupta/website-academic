@@ -32,16 +32,16 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">PROBLEM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">PROBLEM</a></span>
 
 The client wanted to prepare for and ensure a safe transitioning of people from "Work from home" to Office space. They wanted to make sure that the facility should be used responsibly and at no time there should be breaches of the social distancing regulations.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">SOLUTION</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">SOLUTION</a></span>
 
-![Solution Architecture](architecture.png)
+{{< figure src="architecture.png" caption="Solution Architecture" theme="light" >}}
 
 We prepared a solution that gave the client the ability to track and measure the occupancy and social distancing norms anonymously. We set up a LIDAR in the client office space attached with a hub to send the data to the cloud. Several calculations and checks were performed on the cloud and the final data was sent to the dashboard. The real time occupancy readings (both overall and zone-based) were also visualised by the dashboard.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 As a result of our solution, the client could monitor occupancy in real-time, track occupancy trends and monitor the hotspots in the office. As an extension, this can further be used to optimise the office space usage.

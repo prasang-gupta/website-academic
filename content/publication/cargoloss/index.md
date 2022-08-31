@@ -28,13 +28,13 @@ publishDate: "2021-10-19T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '11th International Conference on Embedded Systems and Applications (EMSA 2022) - Sydney, Australia'
+publication: 11$^{th}$ International Conference on Embedded Systems and Applications (EMSA 2022) - Sydney, Australia
 publication_short:
 
 abstract: Cargo loss/damage is a very common problem faced by almost any business with a supply chain arm, leading to major problems like revenue loss and reputation tarnishing. This problem can be solved by employing an asset and impact tracking solution. This would be more practical and effective for high-cost cargo in comparison to low-cost cargo due to the high costs associated with the sensors and overall solution. In this study, we propose a low-cost solution architecture that is scalable, user-friendly, easy to adopt and is viable for a large range of cargo and logistics systems. Taking inspiration from a real-life use case we solved for a client, we also provide insights into the architecture as well as the design decisions that make this a reality.
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:#5DADE2;font-style:bold">11th International Conference on Embedded Systems and Applications (EMSA 2022) - Sydney, Australia</span>
+summary: <a class="mt-1">11$^{th}$ International Conference on Embedded Systems and Applications (EMSA 2022) - Sydney, Australia</a>
 
 tags: ['Asset tracking', 'Logistics', 'Cargo loss', 'Cargo damage', 'Impact sensor', 'Accelerometer sensor', 'Low-cost solution', 'No code AEP (Application Enablement Platform)']
 
