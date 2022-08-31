@@ -32,11 +32,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 The aim of this study was to predict consumer demand using data from competition and infusing it with other datasets that influence demand like mobility and demographic variables. The other goal was to correct a proprietary mobility dataset used by PwC to incorporate for mobility changes brought on by COVID restrictions.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 The proprietary dataset mentioned had several flaws including data inconsistencies over months and years and noisy data which was not helping in developing stable models. It also didn't account for any socio-economic variables based on the demographics of the region. To correct this, the proprietary dataset was merged with demographics variables based on the location and some feature engineering was done to get the mobility in radii of 1km to 5km based on the store location. The final sales value was kept as the dependent field for the model.
 
@@ -48,6 +48,6 @@ To bump up the numbers further, an aerial snapshot of the region around the scor
 - Green (signifying agriculture, parks, vegetation, etc)
 - White (signifying roof-tops, buildings, etc)
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 The final model with all the variables included (engineered visits from proprietary data, Google mobility data, demographics data and derived immediate demographics of the store from satellite images) achieved a test accuracy of 75%. This improved the quality of the mobility data and impacted tens of projects that utilised this mobility dataset helping in building much more accurate and robust models for client deliveries.

@@ -31,10 +31,10 @@ url_video: "https://www.youtube.com/watch?v=oLeQH6g9hCo"
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 This project was done as a part of the summer project offering from Robotics Club, IIT Kanpur. The aim of this project was to build an all-terrain robot capable of autonomous navigation and provide surveillance in remote areas.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 We modelled the robot on Solidworks and machined it using aluminium and CNC machines. For navigation, we integrated the IMU sensor with the GPS anc coupled them together iwth a Kalman filter. Also, we imported Google Maps API for setting the route to be travelled and later converted the route into different waypoints to be followed. This waypoint file was uploaded to the robot's APM (mission planner).

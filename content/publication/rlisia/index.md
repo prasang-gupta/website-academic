@@ -34,7 +34,7 @@ publication_short:
 abstract: Machine learning driven trading strategies have garnered a lot of interest over the past few years. There is, however, limited consensus on the ideal approach for the development of such trading strategies. Further, most literature has focused on trading strategies for short-term trading, with little or no focus on strategies that attempt to build long-term wealth. Our paper proposes a new approach for developing long-term investment strategies using an ensemble of evolutionary algorithms and a deep learning model by taking a series of short-term purchase decisions. Our methodology focuses on building long-term wealth by improving systematic investment planning (SIP) decisions on Exchange Traded Funds (ETF) over a period of time. We provide empirical evidence of superior performance (around 1% higher returns) using our ensemble approach as compared to the traditional daily systematic investment practice on a given ETF. Our results are based on live trading decisions made by our algorithm and executed on the Robinhood trading platform.
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:#5DADE2;font-style:bold">Under Review</span>
+summary: <a class="mt-1">Under Review</a>
 
 tags: ['Machine Learning', 'Investment', 'Reinforcement Learning', 'Deep Learning', 'Evolutionary Strategies', 'Genetic Algorithm', 'ETF Trading']
 

@@ -27,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '11th International Conference of the CLEF Association (CLEF 2020) - Thessaloniki, Greece'
+publication: 11$^{th}$ International Conference of the CLEF Association (CLEF 2020) - Thessaloniki, Greece
 publication_short: 
 
 abstract: Website UI Design is an integral part of the world, but it is not trivial as there are a huge array of challenges that need to be conquered. A quintessential step of a website design process is to sketch the UI wireframe on paper and translating it into code later on. In an attempt to automate this process, advanced AI algorithms are explored in this study. The final approach comprises of image processing, followed by UI feature identification and localisation using Mask-RCNN and ultimately a novel Multi-Pass inference technique to boost the viability of the model. On the test dataset, the method resulted in an mAP or Mean Average Precision (IoU > 0.5) value of 64.12
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:#5DADE2;font-style:bold">11th International Conference of the CLEF Association (CLEF 2020) - Thessaloniki, Greece</span>
+summary: <a class="mt-1">11$^{th}$ International Conference of the CLEF Association (CLEF 2020) - Thessaloniki, Greece</a>
 
 tags: ['HTML', 'UI', 'Image Processing', 'Deep Learning', 'OpenCV', 'Mask-RCNN', 'Multi-Pass Inference']
 

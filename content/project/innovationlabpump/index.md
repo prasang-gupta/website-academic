@@ -31,11 +31,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">AIM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">AIM</a></span>
 
 This was a part of the Unit Operations Lab course. The aim of this project was to innovate and go above and beyond the standard lab experiments with the same equipment. We were assigned the centrifugal pump setup which is originally used to study the effect of series and parallel setup of pumps on the discharge pressure and flow rate. We however decided to perform a very different study using the same equipment.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">DETAILS</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">DETAILS</a></span>
 
 During our experiments, we noticed that there was a measurable gap between turning up the RPM of the motor and actually observing differences in the flow rate. This lead us to believe that there is some sort of a lag in play between the inputs and outputs. To model this lag, we assumed first order dynamics for simplicity and calculated the transfer function of the pump ny oberving the time difference it takes to reach equilibrium after giving the input. We later tested this obtained transfer function by further experimenting with the setup.
 

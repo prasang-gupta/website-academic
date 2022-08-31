@@ -36,7 +36,7 @@ publication_short:
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:#5DADE2;font-style:bold">Patent Pending (US Patent Office)</span>
+summary: <a class="mt-1">Patent Pending (US Patent Office)</a>
 
 tags: []
 

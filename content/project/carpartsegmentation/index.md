@@ -35,11 +35,11 @@ url_video: ""
 slides: ""
 ---
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">PROBLEM</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">PROBLEM</a></span>
 
 The client wanted to reduce the time spent by their employees in looking through several different photographs submitted for insurance claims clearing and ascertain damaged parts of the vehicle with the extent of damage.
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">SOLUTION</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">SOLUTION</a></span>
 
 We solved the problem by training a semantic segmentation model used for ascertainining the different kinds of damage that were present in the photograph of a vehicle (like the figure attached). To ensure the correctness of the model, we also employed an explainable AI technique, LIME, which returned the parts of the image it is looking at when coming to a decision about the damage of a particular type.
 
@@ -47,6 +47,6 @@ A few classification models were also trained to fetch images which were visuall
 
 To top it all off, an automated report generation tool was coupled with the model (using FPDF), which returned a formatted PDF report having detailed information regarding the damage and the claims (a sample report attached).
 
-<span style="color:#5DADE2;font-style:bold;font-size:120%">IMPACT</span>
+<span style="font-style:bold;font-size:120%"><a class="mt-1">IMPACT</a></span>
 
 The segmentation model ensured that the client team spent lesser time on figuring out the damage and more time providing personalised support to the consumers. The classification models helped the client team to look at some previous claims to decide the outcome for the current claim in a more informed and consistent manner. This improved the overall reputation of the firm in disbursing out claims. Also, the automated report could be handed over to the consumers directly for a much more transparent view into the claims processing.
