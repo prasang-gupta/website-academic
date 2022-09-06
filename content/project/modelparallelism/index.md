@@ -10,7 +10,7 @@ tags:
 - Proof of Concept
 - ML-DL
 
-date: "2021-11-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
