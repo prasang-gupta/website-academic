@@ -10,7 +10,7 @@ tags:
 - Firm Internal
 - ML-DL
 
-date: "2021-06-01T00:00:00Z"
+date: "2021-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

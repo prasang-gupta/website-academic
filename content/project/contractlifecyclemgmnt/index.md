@@ -12,7 +12,7 @@ tags:
 - Client Delivery
 - ML-DL
 
-date: "2021-08-01T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

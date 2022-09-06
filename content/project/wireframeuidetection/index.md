@@ -13,7 +13,7 @@ tags:
 - Hackathon
 - ML-DL
 
-date: "2020-07-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

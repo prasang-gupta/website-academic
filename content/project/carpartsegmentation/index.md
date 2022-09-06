@@ -1,7 +1,7 @@
 ---
 title: Damaged Car Parts Segmentation for auto claims
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/kyunghalim/" target="_blank">Kyungha Lim</a>, <a href="https://www.linkedin.com/in/ilana-golbin-6167373b/" target="_blank">Ilana Golbin</a></span>
-summary: Performed damanged car parts segmentation for automating auto claims with additional features like explainability and automated claim / damage report generation
+summary: Performed damaged car parts segmentation for automating auto claims with additional features like explainability and automated claim / damage report generation
 tags:
 - Deep Learning
 - Semantic segmentation
