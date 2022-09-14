@@ -34,3 +34,11 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+<span style="font-style:bold;font-size:110%">Served as a Program Committee Member / Reviewer for the following conferences:</span>
+
+- <a href="https://www.itcse2022.org/caiml/index" target="_blank"><span style="font-size:90%">3$^{rd}$ International Conference on Artificial Intelligence and Machine Learning (CAIML 2022) - Toronto, Canada</span></a>
+- <a href="https://www.aiad2022.org" target="_blank"><span style="font-size:90%">International Conference on Artificial Intelligence Advances (AIAD 2022) - Virtual</span></a>
+- <a href="https://www.mlda2022.org" target="_blank"><span style="font-size:90%">International Conference on Machine Learning, NLP and Data Mining (MLDA 2022) - Virtual</span></a>
+
+<br>
