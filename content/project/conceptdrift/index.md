@@ -1,7 +1,7 @@
 ---
 title: Concept Drift Detection with Chatbots
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%"><a href="https://www.linkedin.com/in/siddhesh-zanj-2b934496/" target="_blank">Siddhesh Zanj</a>, Prasang Gupta, <a href="https://www.linkedin.com/in/vishakhabansal91/" target="_blank">Vishakha Bansal</a>, <a href="https://www.linkedin.com/in/shantanu-dev/" target="_blank">Shantanu Dev</a></span>
-summary: Built a scikit-learn-like toolkit with capabilities to detect concept drift in image, text or audio data using an array of drift detection methods for monitoring and extending the life of production models
+summary: Explored concept drift and built an sklearn-like toolkit to detect drift in image, text or audio data using multiple drift detection methods for monitoring and extending life of production models
 tags:
 - Concept Drift
 - Concept Evolution

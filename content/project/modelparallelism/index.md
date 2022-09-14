@@ -1,7 +1,7 @@
 ---
 title: Model Parallelism for Inference at edge
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%"><a href="https://www.linkedin.com/in/venkat-will-not-give-up/" target="_blank">Venkata Koyya</a>, <a href="https://www.linkedin.com/in/siddhesh-zanj-2b934496/" target="_blank">Siddhesh Zanj</a>, Prasang Gupta</span>
-summary: Implemented a solution that uses model parallelism for speeding up inference at the edge by distributing a single model across different devices
+summary: Explored distributing model components across different devices to enable running large models on edge with multiple smaller devices
 tags:
 - Model Parallelism
 - IoT

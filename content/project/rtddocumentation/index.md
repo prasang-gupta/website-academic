@@ -1,7 +1,7 @@
 ---
 title: Read-The-Docs Documentation Templatisation
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%"><a href="https://www.linkedin.com/in/bibhashm/" target="_blank">Bibhash Mitra</a>, Prasang Gupta, <a href="https://www.linkedin.com/in/zoraxl/" target="_blank">Zora Li</a>, <a href="https://www.linkedin.com/in/shinan-zhang-85264221/" target="_blank">Shinan Zhang</a></span>
-summary: Built an easy-to-use and mostly automated solution using Sphinx to create quick documentation of code repositories in RTD format with support for hosting code documentation on Github Pages.
+summary: Explored sphinx and created a solution to automatically generate github-hosted documentation under 10 mins in RTD format
 tags:
 - Read The Docs
 - Documentation

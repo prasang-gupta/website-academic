@@ -1,7 +1,7 @@
 ---
-title: Worlds.io
+title: Spatial  AI
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/antoinetteyoung/" target="_blank">Antoinette Young</a>, <a href="https://www.linkedin.com/in/sindy-yixin-ma/" target="_blank">Sindy Ma</a></span>
-summary: 
+summary: Analysed and predicted the behaviour of visitors in NYC's Bryant Park, building a digital twin spatial model for 4D simulations
 tags:
 - IoT
 - Worlds.io

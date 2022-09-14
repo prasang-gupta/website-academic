@@ -1,7 +1,7 @@
 ---
 title: Trainings Repository
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/deepesh-hiran-4206296/" target="_blank">Deepesh Hiran</a></span>
-summary: Collected all the firm internal / external trainings in one place and put a Tableau Live Dashboard on top of the data.
+summary: Ideated and built out a repository management system for all internal trainings to boost self-learning and incorporate feedback into future trainings
 tags:
 - Tableau
 - Firm Internal

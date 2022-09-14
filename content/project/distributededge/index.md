@@ -1,7 +1,7 @@
 ---
 title: Distributed Edge Compute
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/zhi-kun-steven-yang/" target="_blank">Zhi Yang</a>, <a href="https://www.linkedin.com/in/vijay-ujjain/" target="_blank">Vijay Ujjain</a></span>
-summary: Built a system capable of distributing compute across different devices on edge using load balancing and micro kubernetes engine
+summary: Built and deployed distributed edge compute on edge with fractional device usage for higher device efficiency using load balancing and micro kubernetes engine
 tags:
 - IoT
 - Distributed Compute

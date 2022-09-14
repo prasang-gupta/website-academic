@@ -1,7 +1,7 @@
 ---
-title: Zero-Shot Deepfake Generation - Audio
+title: Zero-Shot Deepfake Audio Generation
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%"><a href="https://www.linkedin.com/in/anudeepimmidisetty/" target="_blank">Anudeep Immidisetty</a>, <a href="https://www.linkedin.com/in/ameliabauer/" target="_blank">Amelia Bauer</a>, Prasang Gupta</span>
-summary: Created a web-hosted demo to generate audio from text in the voice of the user with a voice sample size of barely 1 minute using a zero-shot audio generation model
+summary: Explored and created a web-hosted demo for a zero-shot deepfake audio generation model to generate audio from text using embeddings of short reference audio clips
 tags:
 - Zero-Shot
 - Deepfake

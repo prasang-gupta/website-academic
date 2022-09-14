@@ -1,7 +1,7 @@
 ---
 title: Contract Lifecycle Management (CLM)
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%"><a href="https://www.linkedin.com/in/schoudhary101/" target="_blank">Shyam Choudhary</a>, <a href="https://www.linkedin.com/in/vishal-kumar-bhutani-0ba83a177/" target="_blank">Vishal Bhutani</a>, Prasang Gupta, <a href="https://www.linkedin.com/in/briankravcik/" target="_blank">Brian Kravcik</a>, <a href="https://www.linkedin.com/in/shantanu-dev/" target="_blank">Shantanu Dev</a>, <a href="https://www.linkedin.com/in/joseph-voyles/" target="_blank">Joseph Voyles</a></span>
-summary: Extracted information from legacy scanned copies of contracts and built hierarchical linkages as a part of contract lifecycle management for the client
+summary: Extracted information from legacy contracts, built taxonomoy to categorise them and linked contracts hierarchically
 tags:
 - Deep Learning
 - Document Understanding
