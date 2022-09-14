@@ -1,5 +1,5 @@
 ---
-title: Implementation of Live models on Edge
+title: Implementation of live models on edge
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/swayambodha-mohapatra-7a7a22110/" target="_blank">Swayambodha Mohapatra</a></span>
 summary: Implemented and optimised multiple live models (eg. action recognition on something something dataset with over 200 classes) on edge devices (eg. Jetson TX2, Raspberry Pi)
 tags:

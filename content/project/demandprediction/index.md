@@ -1,7 +1,7 @@
 ---
 title: Demand Prediction with Competition Analysis
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/amitoj-singh94/" target="_blank">Amitoj Singh</a>, <a href="https://www.linkedin.com/in/shazhoda/" target="_blank">Shaz Hoda</a></span>
-summary: Predicted demand using data from competition and other variables such as demographic and footfall variations in the region.
+summary: Predicted demand using sales figures, mobility data and several demographic and footfall variables
 tags:
 - Deep Learning
 - Active Learning

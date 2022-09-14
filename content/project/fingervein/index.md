@@ -1,7 +1,7 @@
 ---
 title: Fingervein Detection
 subtitle: <span style="font-size:80%;color:#5DADE2">[ PwC US ] </span><span style="font-size:80%">Prasang Gupta, <a href="https://www.linkedin.com/in/antoinetteyoung/" target="_blank">Antoinette Young</a>, <a href="https://www.linkedin.com/in/vijay-ujjain/" target="_blank">Vijay Ujjain</a></span>
-summary: Designed an end-to-end biometric system with user registration and verification as a replacement for fingerprint technology
+summary: Designed end-to-end biometric system with user registration and verification as a replacement for fingerprint technology
 tags:
 - IoT
 - Fingervein Detection
